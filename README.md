@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 👑 CHANRITH SREAN
 
 ### Heavenly King \| Aspiring Software Engineer
@@ -8,7 +8,7 @@
 *"Great things are built one small commit at a time."*
 :::
 
-::: {align="center"}
+
 ![Profile
 Views](https://komarev.com/ghpvc/?username=ChanrithSREAN&style=for-the-badge&color=gold)
 [![GitHub](https://img.shields.io/badge/GitHub-ChanrithSREAN-181717?style=for-the-badge&logo=github)](https://github.com/ChanrithSREAN)
@@ -46,15 +46,6 @@ practice, and curiosity are the keys to becoming a great engineer.
 *I'm growing my toolkit as I learn. This section will evolve with my
 projects.*
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Programming-In%20Progress-blue?style=flat-square" alt="Programming in progress"/>`{=html}
-`<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Learning-orange?style=flat-square&logo=git" alt="Git and GitHub learning"/>`{=html}
-`<img src="https://img.shields.io/badge/Problem%20Solving-Practicing-green?style=flat-square" alt="Problem solving practicing"/>`{=html}
-```{=html}
-</p>
-```
 ## 🚀 Goals
 
 -   [ ] Master one programming language and its fundamentals
@@ -66,7 +57,7 @@ projects.*
 
 ## 📊 GitHub Snapshot
 
-::: {align="center"}
+
 ![GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=ChanrithSREAN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
@@ -82,7 +73,7 @@ Streak](https://streak-stats.demolab.com?user=ChanrithSREAN&theme=tokyonight&hid
 I'm here to stay curious, take on challenges, and keep improving. Every
 project---big or small---is a chance to learn something new.
 
-::: {align="center"}
+
 ### 👑 HEAVENLY KING
 
 **The journey to mastery starts with the next commit.**
