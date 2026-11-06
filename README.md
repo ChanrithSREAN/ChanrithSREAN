@@ -1,60 +1,89 @@
 ::: {align="center"}
-# 👑 Hi, I'm Chanrith SREAN
+# 👑 CHANRITH SREAN
 
-### *Heavenly King --- Aspiring Software Engineer*
+### Heavenly King \| Aspiring Software Engineer
 
-```{=html}
-<p>
-```
-`<em>`{=html}Learning, building, and growing one line of code at a
-time.`</em>`{=html}
-```{=html}
-</p>
-```
+**`Curious mind • Future builder • Lifelong learner`**
+
+*"Great things are built one small commit at a time."*
+:::
+
+::: {align="center"}
+![Profile
+Views](https://komarev.com/ghpvc/?username=ChanrithSREAN&style=for-the-badge&color=gold)
+[![GitHub](https://img.shields.io/badge/GitHub-ChanrithSREAN-181717?style=for-the-badge&logo=github)](https://github.com/ChanrithSREAN)
 :::
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 About Me
+## ✨ About Me
 
--   🎓 I'm a **first-year Software Engineering student**.
--   🌱 I'm currently building my foundation in programming and computer
-    science.
--   🎯 My goal is to become a skilled software engineer and create
-    useful, real-world applications.
--   🧠 I enjoy learning new technologies, solving problems, and
-    improving every day.
--   🌍 Based in Cambodia.
+Hi! I'm **Chanrith**, a first-year **Software Engineering student from
+Cambodia** 🇰🇭.
 
-## 🚀 My Journey
+I'm at the beginning of my journey in technology, learning how to turn
+ideas into useful software. I believe strong fundamentals, consistent
+practice, and curiosity are the keys to becoming a great engineer.
 
-I'm at the beginning of my software engineering journey. I'm focused on
-understanding the fundamentals, practicing consistently, and turning
-what I learn into projects.
+-   🎓 Studying Software Engineering
+-   🌱 Building my foundation in programming and computer science
+-   🧩 Interested in problem-solving and creating practical projects
+-   🎯 Working toward becoming a professional software engineer
+-   ⚡ Motto: **Learn deeply. Build boldly. Improve daily.**
 
-> **My mindset:** Stay curious. Keep learning. Never stop building.
+## 🧭 My Learning Journey
 
-## 🛠️ What I'm Working On
+  Focus               What I'm developing
+  ------------------- ------------------------------------------------
+  Programming         Fundamentals, clean code, and logical thinking
+  Computer Science    Data structures and algorithms
+  Development Tools   Git, GitHub, and command-line basics
+  Projects            Turning lessons into working applications
+  Communication       Technical English and teamwork
 
--   Strengthening programming fundamentals
--   Practicing problem-solving and algorithms
--   Learning Git and GitHub
--   Building beginner-friendly projects
--   Improving my technical English
+## 🛠️ Skills & Tools
 
-## 📌 Goals
+*I'm growing my toolkit as I learn. This section will evolve with my
+projects.*
 
--   [ ] Build and publish my first portfolio projects
--   [ ] Become confident with data structures and algorithms
--   [ ] Contribute to open-source projects
--   [ ] Grow into a professional software engineer
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Programming-In%20Progress-blue?style=flat-square" alt="Programming in progress"/>`{=html}
+`<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Learning-orange?style=flat-square&logo=git" alt="Git and GitHub learning"/>`{=html}
+`<img src="https://img.shields.io/badge/Problem%20Solving-Practicing-green?style=flat-square" alt="Problem solving practicing"/>`{=html}
+```{=html}
+</p>
+```
+## 🚀 Goals
 
-## 🤝 Connect With Me
+-   [ ] Master one programming language and its fundamentals
+-   [ ] Practice data structures and algorithms regularly
+-   [ ] Create and document personal projects
+-   [ ] Build a strong GitHub portfolio
+-   [ ] Explore open-source contributions
+-   [ ] Prepare for a software engineering internship
 
--   **GitHub:** [@ChanrithSREAN](https://github.com/ChanrithSREAN)
-
-------------------------------------------------------------------------
+## 📊 GitHub Snapshot
 
 ::: {align="center"}
-### 👑 *The journey to mastery starts with one commit.*
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=ChanrithSREAN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanrithSREAN&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub
+Streak](https://streak-stats.demolab.com?user=ChanrithSREAN&theme=tokyonight&hide_border=true)
+:::
+
+## 🌌 Beyond the Code
+
+I'm here to stay curious, take on challenges, and keep improving. Every
+project---big or small---is a chance to learn something new.
+
+::: {align="center"}
+### 👑 HEAVENLY KING
+
+**The journey to mastery starts with the next commit.**
 :::
